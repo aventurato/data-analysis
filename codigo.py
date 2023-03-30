@@ -12,3 +12,5 @@ sns.lineplot(data=df_gasolina, x='dia', y='venda')
 plt.grid()
 plt.savefig('grafico_gasolina.png')
 plt.show()
+
+print('Seja bem vindo!')
